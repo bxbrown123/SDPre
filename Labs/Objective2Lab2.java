@@ -10,8 +10,8 @@ public class Objective2Lab2 {
       System.out.print( name );
       System.out.print("Age: ");
       System.out.print( age );
-      System.out.print(" State:  ");
-      System.out.println( state );
+      System.out.print(" State: ");
+      System.out.print( state );
     
   }
 }
