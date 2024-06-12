@@ -12,8 +12,6 @@ public class Objective7Lab4 {
 			sum = sum + count;
 			count = count + 1;
 		}
-		
-		// Prints ONLY the final sum.
 		System.out.println(sum);
 	}
 }
