@@ -14,8 +14,8 @@ public class Objective3Lab3 {
 
         // Expected Output x + x + x = x
         // Each output ran will be different due to the random nature.
-        // Excat text "+ and =" and Mathematical Symbols + and 
-
+        // Excat text "+ and =" and Mathematical Symbols + and .
+        // Errors will occur with incorrect class. "It can't be found."
 
 
 
