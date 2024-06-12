@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Objective5Lab3 {
+    public static void main(String[] args) {
+      Scanner scanner = new Scanner(System.in);
+      int userNum;
+
+      // We are using scanner again. Don't forget to close
+      // Using a single input to get answer from 1 of the 3 below.
+      // If first fails then next, then last. Nothing new from school.
+
+      // Question
+      System.out.println("Please enter a number: ");
+      userNum = scanner.nextInt();
+      // Possibilities.
+      if (userNum > 0) {
+        System.out.println("The number is positive");
+      } else if (userNum < 0) {
+        System.out.println("The number is negative");
+      } else {
+        System.out.println("The number is zero");
+      }
+      // Don't forget to close here.
+      scanner.close();
+  }
+}
