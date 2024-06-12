@@ -5,7 +5,7 @@ public class Objective5Lab2 {
     String string2 = "Bacon";
     String string3 = "Banana";
 
-    //Only difference is with strings
+    //Only difference is with strings. 6 sets of braces.
 
     // first statement.
     if(string1.equals(string2)) {
